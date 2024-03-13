@@ -31,7 +31,7 @@ http://1.197.249.55:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.197.249.55:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视高清",CCTV15-音乐
 http://1.197.249.55:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="A16" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视高清",CCTV-17
+#EXTINF:-1 tvg-id="A16" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视高清",CCTV17-农村农业
 http://1.197.249.55:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
 
 #卫视高清/30个频道
